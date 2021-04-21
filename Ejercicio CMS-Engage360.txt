@@ -1,0 +1,63 @@
+First Test
+
+Author:
+Alejandro Obregon 
+
+Title:
+PR001 First Test Capture of Dining for Sabinas Community
+
+Goal:
+Test the functionality of the objects on the Engage360 meal capture page
+
+Kind:
+Experimental
+
+Preconditions:
+You must have a browser installed
+
+Test Data:
+
+Test steps:
+01.- Open the browser
+
+02.- Write the following address in the browser:
+"http://dev.www.engage360.evacompute.com:8080/" and hit enter
+
+03.- Set the speed of selenium in case the page takes time to load
+
+04.- Wait for the element to be visible and the title of the page to be Log in to ENGAGE360
+
+05.- Place name in Email rectangle "arturo" and Click
+
+06.- Place name in Password rectangle "Sabinas1@" and Click
+
+07.-Set focus on "Sign In" element and Click on the element
+
+08.-Open New window with URL "http://dev.www.engage360.evacompute.com:8080/dashboard"
+
+09.-Set Focus on the "Dining" item and then click
+
+10.-Set Focus on the "New Dining" item and then click
+
+11.- Click on the "Title" line and Place text
+
+12.- Click on the "Description" line and Place text
+
+13.- Click on the "Date" button and close the date window
+
+14.-Click on the Tags button, place text and make it highlighted in blue and double-click to exit
+
+15.- Make the "Breakfast" element visible
+
+16.- View the "save" element and click
+
+17.- View the item in the image on the upper left and click
+
+18.- Click on the Image "Sign out" and exit the page
+
+19.- Close Browser
+
+
+Expected result:
+The entire Breakfast Capture Process of the Sabinas community must pass all these 
+validation tests
