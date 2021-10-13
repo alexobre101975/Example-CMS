@@ -58,6 +58,3 @@ Test steps:
 19.- Close Browser
 
 
-Expected result:
-The entire Breakfast Capture Process of the Sabinas community must pass all these 
-validation tests
